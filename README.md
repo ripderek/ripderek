@@ -2,25 +2,25 @@
 <div align="center">
   <h1>Hi 👋, I'm Raul Steven</h1>
   <h3>Software Developer</h3>
+ 
+
 </div>
 
-<div>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ripderek&show_icons=true&theme=radical"/>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripderek&layout=compact"/>
-</div>
+
 
 
 #### Connect with me:
+<div>
 <div align="left">
 <a href="https://www.linkedin.com/in/raul-steven-coello-castillo-387124208/"> <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png"  title="Linkedin" alt="Linkedin" width="40" height="40"/> </a>
   <a href="https://www.youtube.com/channel/UCY8orSwJxjChAtxijDuWXhA"> <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" title="" alt="" width="40" height="40"/> </a>
 
 </div>
-
+</div>
 ### Languages and Tools:
 
-<div align="left">
-  <div>
+<div >
+  <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android studio" alt="android studio" width="40" height="40"/>
@@ -45,8 +45,9 @@
   </div>
 </div>
 
+ <img  width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripderek&layout=compact"/>
 
-
+ <img align="center" width="47%"  src="https://github-readme-stats.vercel.app/api?username=ripderek&show_icons=true&theme=radical"/>
 <!--
 **ripderek/ripderek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  <img src="" title="" alt="" width="40" height="40"/>
