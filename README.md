@@ -11,11 +11,12 @@
 
 <div align="left">
   <div>
-    <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/css3.png" title="css3" alt="css3" width="40" height="40"/>
-    <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/html5.png" title="" alt="" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>
      <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/android.png" title="" alt="" width="40" height="40"/>
-     <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/bootstrap.png" title="" alt="" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="" alt="" width="40" height="40"/>
      <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/illustrator.png" title="" alt="" width="40" height="40"/>
+     <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/javascript.png" title="" alt="" width="40" height="40"/>
 
   </div>
 </div>
