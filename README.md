@@ -1,5 +1,5 @@
  <!--img src="https://i.imgur.com/DZlAfop.png"  title="Linkedin" alt="Linkedin" /-->
- <img src="https://i.imgur.com/DZlAfop.png"  title="Linkedin" alt="Linkedin" />
+ <img src="https://imgur.com/a/xvpAM1O"  title="Linkedin" alt="Linkedin" />
 <div align="center">
   <h1>Hi 👋, I'm Raul Steven 👻</h1>
   <h3>Software Developer</h3>
