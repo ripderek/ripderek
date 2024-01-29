@@ -1,7 +1,9 @@
- <!--img src="https://i.imgur.com/DZlAfop.png"  title="Linkedin" alt="Linkedin" /-->
+ <img src="https://i.imgur.com/DZlAfop.png"  title="Linkedin" alt="Linkedin" />
+ <!--
  <div align="center">
   <img src="https://i.imgur.com/cQ5TgEV.jpeg" />
 </div>
+/-->
 <div align="center">
   <h1>♿ I'm Raul Steven 🚮</h1>
   <h3>Software Developer</h3>
