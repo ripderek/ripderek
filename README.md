@@ -1,4 +1,4 @@
- <img src="https://i.imgur.com/DZlAfop.png"  title="Linkedin" alt="Linkedin" />
+ <img src="https://i.imgur.com/TOMNzWM.png"  title="Linkedin" alt="Linkedin" />
  <!--
  <div align="center">
   <img src="https://i.imgur.com/cQ5TgEV.jpeg" />
@@ -6,7 +6,7 @@
 /-->
 <div align="center">
   <h1>Raúl Steven Coello Castillo</h1>
-  <h3>Software Developer</h3>
+  <h3>Extintor Team</h3>
 </div>
 
 
@@ -15,10 +15,7 @@
 ## Connect with me:
 <div>
 <div align="left">
-<a href="https://www.linkedin.com/in/raul-steven-coello-castillo-387124208/"> <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png"  title="Linkedin" alt="Linkedin" width="40" height="40"/> </a>
-  <a href="https://www.youtube.com/channel/UCY8orSwJxjChAtxijDuWXhA"> <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" title="" alt="" width="40" height="40"/> </a>
-  
-
+<a href="https://www.linkedin.com/in/raul-steven-coello-castillo-387124208/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="Linkedin" alt="Linkedin" width="40" height="40"/> </a>
 </div>
 </div>
 
@@ -40,7 +37,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
