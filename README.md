@@ -1,4 +1,3 @@
- <img src="https://i.imgur.com/TOMNzWM.png"  title="Linkedin" alt="Linkedin" />
  <!--
  <div align="center">
   <img src="https://i.imgur.com/cQ5TgEV.jpeg" />
