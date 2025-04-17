@@ -5,7 +5,6 @@
 </div>
 /-->
 <div align="center">
-  <h1>Raúl Steven Coello Castillo</h1>
   <h3>Extintor Team</h3>
 </div>
 
