@@ -10,12 +10,7 @@
 
 
 
-## Connect with me:
-<div>
-<div align="left">
-<a href="https://www.linkedin.com/in/raul-steven-coello-castillo-387124208/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="Linkedin" alt="Linkedin" width="40" height="40"/> </a>
-</div>
-</div>
+
 
 ## Languages and Tools:
 
